@@ -1,0 +1,2 @@
+# embedded
+Embedded page test
